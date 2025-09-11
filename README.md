@@ -11,7 +11,6 @@ I am a cybersecurity enthusiast with hands-on experience in Windows Server, Kali
 To apply my technical skills in cybersecurity, contributing to network defense, threat analysis, and security operations, while continually expanding my expertise in real-world security challenges.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
