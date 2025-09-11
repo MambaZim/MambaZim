@@ -16,7 +16,7 @@ To apply my technical skills in cybersecurity, contributing to network defense, 
 |-----------------------------------------------|----------------------------|
 | Linux Virtual Machine Command Line            | <a href="https://github.com/MambaZim/Linux-Virtual-Machine-Command-Line-Project">Linux Virtual Machine & Command-Line Fundamentals</a>|
 | Active Directory Network Scanning Intrusion Detection  | <a href="https://github.com/MambaZim/Active-Directory-Network-Scanning-Intrusion-Detection-Lab">Active Directory Network Scanning Intrusion Detection Lab </a>|
-|                                               | <a href="https://github.com/MambaZim/Active-Directory-Network-Scanning-Intrusion-Detection-Lab">Active Directory Network Scanning Intrusion Detection Lab </a>|
+|Threat-Simulation-Security-Testing               | <a href="https://github.com/MambaZim/Virtual-Lab-Environment-Threat-Simulation-Security-Testing">Threat-Simulation-Security-Testing</a>|
 
 ## Tools
 
@@ -39,10 +39,11 @@ To apply my technical skills in cybersecurity, contributing to network defense, 
     <img src="https://img.shields.io/badge/-Nessus / OpenVAS-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Windows Defender Firewall-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
-
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Metasploit Framework-000080?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OWASP Broken Web Apps (Mutillidae)-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
 </div>
 
 ## Projects
 - <a href="https://github.com/MambaZim/Linux-Virtual-Machine-Command-Line-Project">Linux Virtual Machine & Command-Line Fundamentals</a>
 - <a href="https://github.com/MambaZim/Active-Directory-Network-Scanning-Intrusion-Detection-Lab">Active Directory Network Scanning Intrusion Detection Lab </a>
+- <a href="https://github.com/MambaZim/Virtual-Lab-Environment-Threat-Simulation-Security-Testing">Threat-Simulation-Security-Testing</a>
